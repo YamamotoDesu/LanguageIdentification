@@ -1,5 +1,6 @@
-# LanguageIdentification
+# Text And Language Identification
 
+## Language Identification
 ```swift
 import UIKit
 import NaturalLanguage
