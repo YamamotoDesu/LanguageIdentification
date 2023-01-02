@@ -34,3 +34,18 @@ private func predictLanguage(text: String) -> String? {
 }
 
 ```
+
+### output
+```
+NLLanguage(_rawValue: en)
+English
+NLLanguage(_rawValue: ja)
+Japanese
+NLLanguage(_rawValue: es)
+Spanish
+Unable to predict language
+NLLanguage(_rawValue: ur)
+Urdu
+NLLanguage(_rawValue: hu)
+Hungarian
+```
