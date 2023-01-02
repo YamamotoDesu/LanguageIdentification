@@ -51,6 +51,8 @@ NLLanguage(_rawValue: hu)
 Hungarian
 ```
 
+-----------
+
 ## Named Entity Recognition
 ```swift
 private func printNamedEntities(text: String) {
